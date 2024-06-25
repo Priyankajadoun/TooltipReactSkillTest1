@@ -1,0 +1,18 @@
+
+.Form-container{
+    padding-top: 10%;
+}
+form label{
+    color: white;
+    font-weight: bold;
+}
+input{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+section{
+    border: 2px solid;
+    border-radius: 5px;
+   
+}
